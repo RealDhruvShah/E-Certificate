@@ -1,0 +1,22 @@
+{
+  "name": "CKPCert",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kuldip Patel",
+      "email": "patel.kuldip91@gmail.com"
+    }
+  ],
+  "description": "Certificate Generator",
+  "require": {
+    "ext-json": "*",
+    "ext-mysqli": "*",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "setasign/fpdf": "1.8.1",
+    "setasign/fpdi": "1.6.2",
+    "endroid/qr-code": "3.7.7",
+    "phpmailer/phpmailer": "6.0.x-dev",
+    "pragmarx/google2fa-qrcode": "^1.0"
+  }
+}
